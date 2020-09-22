@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: shiro
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp
+server:
+  port: 80
+  servlet:
+    context-path: /shiro
+
